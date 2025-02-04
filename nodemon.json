@@ -1,0 +1,6 @@
+{
+    "env" : {
+        "MONGO_ATLAS_PW" : "yaali9793",
+        "JWT_KEY" : "hellokitty"
+    }
+}
