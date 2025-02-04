@@ -14,8 +14,8 @@ This is a RESTful API for an online shop built using Node.js and Express. It all
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/thealiqaf/API.git
-   cd API
+   git clone https://github.com/thealiqaf/Node.js-RESTful-API-Shop-API.git
+   cd Node.js-RESTful-API-Shop-API
    ```
 2. Install dependencies:
    ```sh
